@@ -9,8 +9,9 @@
 + matplotlib
 + seaborn 
 + plotly express
-+ numpy as np
++ numpy
 + scipy
++ проверка гипотез
 
 ### Вывод и рекомендации
 **Портрет отточного клиента**
