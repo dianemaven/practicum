@@ -8,7 +8,7 @@
 + pandas
 + matplotlib
 + seaborn
-+ plotly express
++ plotly
 + folium
 + json
 
